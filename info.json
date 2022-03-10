@@ -1,0 +1,201 @@
+{
+    "fangGang": [{
+    "profile1": [{
+      "basics": {
+        "name": "Tattooscape",
+        "title": "Programmer",
+        "image": "",
+        "email": "tattooscape@email.com",
+        "summary": "A summary of tattooscape. Just a beginner.",
+        "location": {
+          "address": "South of Fort Worth",
+          "postalCode": "76476",
+          "city": "Some City",
+          "countryCode": "US",
+          "region": "Texas"
+        },
+        "social1": [{
+          "network": "Github",
+          "username": "shiloh-byte",
+          "url": "https://github.com/shiloh-byte"
+        }],
+        "social2": [{
+          "network": "LinkedIn",
+          "username": "misc",
+          "url": "https://linkedin.com"
+        }]
+      },
+  
+      "projects1": [{
+        "name": "Broken Calculator",
+        "description": "HTML",
+        "startDate": "2022-01-02",
+        "endDate": "2022-01-09",
+        "url": "https://github.com/shiloh-byte/Broken-Calculator",
+        "roles": [
+          "HTML"
+        ],
+        "type": "application"
+      }],
+  
+      "projects2": [{
+          "name": "Deck of Cards",
+          "description": "CSS",
+          "startDate": "2022-01-10",
+          "endDate": "2022-01-29",
+          "url": "https://github.com/shiloh-byte/deck-of-cards",
+          "roles": [
+            "CSS"
+          ],
+          "type": "application"
+        }],
+  
+        "projects3": [{
+          "name": "Portfolio",
+          "description": "Javascript",
+          "startDate": "2022-01-30",
+          "endDate": "2022-02-20",
+          "url": "https://github.com/shiloh-byte/Portfolios",
+          "roles": [
+            "Javascript"
+          ],
+          "type": "application"
+        }]
+  
+      }]
+    },
+    
+    {
+      "profile2": [{
+        "basics": {
+          "name": "David A.",
+          "title": "Programmer",
+          "image": "",
+          "email": "DavidA@email.com",
+          "summary": "A summary of David A. Super helpful and smart.",
+          "location": {
+            "address": "Somewhere",
+            "postalCode": "null",
+            "city": "Some City",
+            "countryCode": "US",
+            "region": "Texas"
+          },
+          "social1": [{
+            "network": "Github",
+            "username": "DavidAlex17",
+            "url": "https://github.com/DavidAlex17"
+          }],
+          "social2": [{
+            "network": "LinkedIn",
+            "username": "misc",
+            "url": "https://linkedin.com"
+          }]
+        },
+    
+        "projects1": [{
+          "name": "Broken Calculator",
+          "description": "Javascript",
+          "startDate": "2022-01-02",
+          "endDate": "2022-01-09",
+          "url": "https://github.com/DavidAlex17/Broken-Calculator",
+          "roles": [
+            "Javascript"
+          ],
+          "type": "application"
+        }],
+    
+        "projects2": [{
+            "name": "Deck of Cards",
+            "description": "HTML",
+            "startDate": "2022-01-10",
+            "endDate": "2022-01-11",
+            "url": "https://github.com/DavidAlex17/deck-of-cards",
+            "roles": [
+              "HTML"
+            ],
+            "type": "application"
+          }],
+
+          "projects3": [{
+            "name": "Portfolio",
+            "description": "CSS",
+            "startDate": "2022-01-30",
+            "endDate": "2022-02-20",
+            "url": "https://github.com/DavidAlex17/Portfolios",
+            "roles": [
+              "CSS"
+            ],
+            "type": "application"
+          }]
+    
+        }]
+      },
+  
+      {
+        "profile3": [{
+          "basics": {
+            "name": "Tbone",
+            "title": "Programmer",
+            "image": "",
+            "email": "tbone@email.com",
+            "summary": "A summary of tbone. This dude really knows his stuff.",
+            "location": {
+              "address": "Somewhere",
+              "postalCode": "null",
+              "city": "Some City",
+              "countryCode": "US",
+              "region": "Somewhere"
+            },
+            "social1": [{
+              "network": "Github",
+              "username": "tjschwartz7",
+              "url": "https://github.com/tjschwartz7"
+            }],
+            "social2": [{
+              "network": "LinkedIn",
+              "username": "misc",
+              "url": "https://linkedin.com"
+            }]
+          },
+      
+          "projects1": [{
+            "name": "Broken Calculator",
+            "description": "CSS",
+            "startDate": "2022-01-02",
+            "endDate": "2022-01-09",
+            "url": "https://github.com/tjschwartz7/Broken-Calculator",
+            "roles": [
+              "CSS"
+            ],
+            "type": "application"
+          }],
+      
+          "projects2": [{
+              "name": "Deck of Cards",
+              "description": "Javascript",
+              "startDate": "2022-01-10",
+              "endDate": "2022-01-11",
+              "url": "https://github.com/tjschwartz7/deck-of-cards",
+              "roles": [
+                "Javascript"
+              ],
+              "type": "application"
+            }],
+
+            "projects3": [{
+                "name": "Portfolio",
+                "description": "HTML",
+                "startDate": "2022-01-30",
+                "endDate": "2022-02-20",
+                "url": "https://github.com/tjschwartz7/Portfolios",
+                "roles": [
+                  "HTML"
+                ],
+                "type": "application"
+              }]
+      
+          }]
+    }
+  
+  ]}
+  
