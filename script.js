@@ -1,4 +1,4 @@
-const url = "https://api.jsonserve.com/5uVFVY"
+const url = 'info.json'
 fetch(url)
         .then(function (response) {
         return response.json();    
